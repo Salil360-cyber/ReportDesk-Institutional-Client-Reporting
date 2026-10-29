@@ -1,0 +1,31 @@
+client_id,rank_no,security_name,asset_class,market_value,weight
+C01,1,Cedar Rail Holdings,Equity,49279560.00,0.279992
+C01,2,Lumen Consumer Brands,Equity,25115670.00,0.142700
+C01,3,UK Gilt 4.00% 2030,Fixed Income,17681718.00,0.100462
+C01,4,Orchid Pharmaceuticals,Equity,15339955.00,0.087157
+C01,5,Atlas Mining 6.00% 2030,Fixed Income,13109825.00,0.074486
+C02,1,Harbourline Bank 5.10% 2029,Fixed Income,39680592.00,0.209115
+C02,2,German Bund 2.50% 2033,Fixed Income,36003960.00,0.189740
+C02,3,Japan JGB 1.10% 2034,Fixed Income,22466620.00,0.118398
+C02,4,UK Gilt 4.00% 2030,Fixed Income,21674364.00,0.114223
+C02,5,Northwind Technologies,Equity,16464420.00,0.086767
+C03,1,Atlas Mining Corp,Equity,82824020.00,0.302365
+C03,2,Lumen Consumer Brands,Equity,52096365.00,0.190188
+C03,3,Polar Logistics,Equity,49452440.00,0.180536
+C03,4,Orchid Pharmaceuticals,Equity,27849660.00,0.101671
+C03,5,US Treasury 4.25% 2031,Fixed Income,22366537.00,0.081653
+C04,1,Riverstone Insurance,Equity,87967620.00,0.400427
+C04,2,Harbourline Bank,Equity,27003480.00,0.122919
+C04,3,Japan JGB 1.10% 2034,Fixed Income,26959944.00,0.122721
+C04,4,Atlas Mining 6.00% 2030,Fixed Income,19814850.00,0.090197
+C04,5,Northwind Tech 4.60% 2032,Fixed Income,18450126.00,0.083985
+C05,1,Polar Logistics,Equity,82354265.00,0.312870
+C05,2,Monsoon Digital,Equity,40144380.00,0.152511
+C05,3,Cedar Rail Holdings,Equity,37792095.00,0.143575
+C05,4,Atlas Mining Corp,Equity,25319260.00,0.096190
+C05,5,UK Gilt 4.00% 2030,Fixed Income,22624994.00,0.085954
+C06,1,Cedar Rail Holdings,Equity,64929150.00,0.209165
+C06,2,Polar Logistics,Equity,46860175.00,0.150957
+C06,3,German Bund 2.50% 2033,Fixed Income,36879732.00,0.118806
+C06,4,US Treasury 4.25% 2031,Fixed Income,34387319.00,0.110776
+C06,5,Atlas Mining Corp,Equity,22315280.00,0.071887

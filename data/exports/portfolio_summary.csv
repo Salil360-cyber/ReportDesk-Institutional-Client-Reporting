@@ -1,0 +1,7 @@
+client_id,client_name,client_type,country,benchmark_name,bmv,emv,net_flows,investment_gain,portfolio_return,benchmark_return,excess_bps,report_status
+C01,Kingsbridge Pension Scheme,Pension Fund,United Kingdom,60/40 Global Balanced Index,172783514.00,176003638.00,2900000.00,320124.00,0.001837,0.009400,-75.6,READY - CHECK WARNINGS
+C02,Rheinfeld Insurance AG,Insurance,Germany,Global Aggregate Bond Index,190224832.00,189754489.00,-800000.00,329657.00,0.001737,-0.004200,59.4,READY - CHECK WARNINGS
+C03,Amsterhaven Foundation,Foundation,Netherlands,Global Equity Index,274733417.00,273920432.00,0,-812985.00,-0.002959,0.018500,-214.6,READY - CHECK WARNINGS
+C04,Al Noor Reserve Fund,Sovereign Wealth Fund,United Arab Emirates,60/40 Global Balanced Index,272801857.00,219684436.00,-2550000.00,-50567421.00,-0.186234,0.009400,-1956.3,BLOCKED
+C05,Table Bay Retirement Fund,Pension Fund,South Africa,Global Equity Index,265133992.00,263222259.00,400000.00,-2311733.00,-0.008713,0.018500,-272.1,BLOCKED
+C06,Fjordline Mutual Pension,Pension Fund,Sweden,60/40 Global Balanced Index,302759239.00,310421063.00,-1450000.00,9111824.00,0.030168,0.009400,207.7,BLOCKED

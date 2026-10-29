@@ -1,0 +1,8 @@
+client_id,check_name,severity,security_id,detail
+C04,Missing month-end price,BLOCKER,EQ002,No price on 2026-09-30
+C05,Cash does not reconcile,BLOCKER,CASH_USD,Difference -1250000.00
+C06,Duplicate holding row,BLOCKER,EQ003,2 rows
+C01,Price move over 25%,WARNING,EQ004,Move 38.0%
+C02,Stale price (unchanged),WARNING,FI001,Price 98.5310 same as last month
+C03,Stale price (unchanged),WARNING,FI001,Price 98.5310 same as last month
+C06,Stale price (unchanged),WARNING,FI001,Price 98.5310 same as last month

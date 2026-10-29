@@ -1,0 +1,7 @@
+client_id,client_name,blockers,warnings,report_status
+C01,Kingsbridge Pension Scheme,0,1,READY - CHECK WARNINGS
+C02,Rheinfeld Insurance AG,0,1,READY - CHECK WARNINGS
+C03,Amsterhaven Foundation,0,1,READY - CHECK WARNINGS
+C04,Al Noor Reserve Fund,1,0,BLOCKED
+C05,Table Bay Retirement Fund,1,0,BLOCKED
+C06,Fjordline Mutual Pension,1,1,BLOCKED

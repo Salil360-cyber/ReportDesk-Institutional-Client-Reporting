@@ -1,0 +1,17 @@
+query_id,client_id,received_date,query_type,priority,status,resolved_date
+Q001,C05,2026-09-01,Deadline query,Low,Open,
+Q002,C05,2026-09-02,Additional data request,Medium,In Progress,
+Q003,C04,2026-09-14,Performance explanation,Low,In Progress,
+Q004,C02,2026-09-15,Report correction,Medium,Resolved,2026-09-18
+Q005,C02,2026-09-16,Performance explanation,High,Resolved,2026-09-21
+Q006,C04,2026-09-16,Deadline query,Medium,Open,
+Q007,C05,2026-09-17,Performance explanation,Low,Resolved,2026-09-18
+Q008,C02,2026-09-17,Report correction,Low,Resolved,2026-09-22
+Q009,C05,2026-09-17,Format change,Low,Resolved,2026-09-18
+Q010,C01,2026-09-24,Additional data request,Medium,Resolved,2026-09-30
+Q011,C06,2026-09-25,Format change,Low,Open,
+Q012,C01,2026-09-29,Deadline query,High,Open,
+Q013,C06,2026-09-29,Report correction,High,Resolved,2026-10-02
+Q014,C01,2026-09-30,Additional data request,Low,Resolved,2026-10-01
+Q015,C03,2026-10-01,Additional data request,Medium,Resolved,2026-10-07
+Q016,C06,2026-10-02,Format change,Medium,Resolved,2026-10-07
